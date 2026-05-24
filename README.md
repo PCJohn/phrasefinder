@@ -7,7 +7,7 @@ Useful anywhere you need to detect keywords or phrases in a stream of text: real
 ```python
 from phrasefinder import PhraseFinder
 
-finder = PhraseFinder.from_file("examples/ref_phrases.txt")
+finder = PhraseFinder.from_file("examples/signal_phrases.txt")
 hits = finder.find("she published a book called dune")
 # → [Hit(label='book', phrase='a book called', context='...')]
 ```
@@ -68,7 +68,7 @@ hits = finder.find("what the hell is going on")
 ### Load from file
 
 ```python
-finder = PhraseFinder.from_file("examples/ref_phrases.txt")
+finder = PhraseFinder.from_file("examples/signal_phrases.txt")
 ```
 
 File format — labeled:
@@ -111,7 +111,7 @@ finder = PhraseFinder.from_string("""
 `find()` is stateful — call it repeatedly with successive text chunks. Word count accumulates across calls, which drives cooldown (see below).
 
 ```python
-finder = PhraseFinder.from_file("examples/ref_phrases.txt", cooldown=30)
+finder = PhraseFinder.from_file("examples/signal_phrases.txt", cooldown=30)
 
 for chunk in transcript_stream:
     hits = finder.find(chunk)
@@ -129,7 +129,7 @@ By default (`cooldown=0`) every occurrence fires. Set `cooldown=N` to suppress r
 
 ```python
 # won't re-fire "book" for 30 words after the first hit
-finder = PhraseFinder.from_file("ref_phrases.txt", cooldown=30)
+finder = PhraseFinder.from_file("signal_phrases.txt", cooldown=30)
 ```
 
 ---
@@ -139,18 +139,18 @@ finder = PhraseFinder.from_file("ref_phrases.txt", cooldown=30)
 Compilation is fast (~30ms for 1300 phrases) but you can save the compiled automaton to disk for instant loading:
 
 ```python
-finder = PhraseFinder.from_file("examples/ref_phrases.txt")
-finder.save("ref_phrases.pf")
+finder = PhraseFinder.from_file("examples/signal_phrases.txt")
+finder.save("signal_phrases.pf")
 
 # later / in your app
-finder = PhraseFinder.load("ref_phrases.pf")
+finder = PhraseFinder.load("signal_phrases.pf")
 ```
 
 ---
 
 ## Included example: reference finder
 
-`examples/ref_phrases.txt` contains ~1300 phrases across 29 languages for detecting references to books, papers, movies, TV shows, songs, podcasts, and maps in conversational speech. It covers:
+`examples/signal_phrases.txt` contains ~1300 phrases across 29 languages for detecting references to books, papers, movies, TV shows, songs, podcasts, and maps in conversational speech. It covers:
 
 - **European languages** — English, French, Spanish, Portuguese, German, Italian, Dutch, Polish, Russian, Ukrainian
 - **Middle Eastern** — Arabic, Persian, Turkish
@@ -243,11 +243,11 @@ brand     | pepsi
 finder = PhraseFinder.from_file("my_phrases.txt")
 ```
 
-To extend the reference finder, add lines to `examples/ref_phrases.txt` or create a new file and merge:
+To extend the reference finder, add lines to `examples/signal_phrases.txt` or create a new file and merge:
 
 ```python
 finder = PhraseFinder.from_files(
-    "examples/ref_phrases.txt",
+    "examples/signal_phrases.txt",
     "my_extra_phrases.txt",
 )
 ```

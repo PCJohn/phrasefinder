@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "phrasefinder"
+version = "0.1.0"
+description = "Fast multi-phrase search over text streams using Aho-Corasick"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = [
+    "pyahocorasick>=2.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-benchmark>=4.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/phrasefinder"
+Issues   = "https://github.com/yourusername/phrasefinder/issues"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["phrasefinder*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

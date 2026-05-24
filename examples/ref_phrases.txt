@@ -1,0 +1,1347 @@
+# ref_phrases.txt — reference finder phrases for phrasefinder
+# All languages flattened into one file.
+# Format: label | phrase
+# Lines starting with # are comments.
+
+
+# ── ar ────────────────────────────────────────────────
+book | كتاب بعنوان
+book | كتاب يسمى
+book | رواية بعنوان
+book | رواية تسمى
+book | سيرة ذاتية بعنوان
+book | نشر كتاباً بعنوان
+book | أصدر كتاباً بعنوان
+book | في كتابه بعنوان
+book | مؤلف كتاب
+paper | ورقة بحثية بعنوان
+paper | دراسة بعنوان
+paper | دراسة حديثة
+paper | نشر ورقة بحثية بعنوان
+paper | نشر دراسة بعنوان
+paper | الدراسة أظهرت أن
+paper | على arxiv
+paper | منشور على arxiv
+movie | فيلم يسمى
+movie | فيلم بعنوان
+movie | فيلم وثائقي بعنوان
+movie | فيلم وثائقي عن
+movie | من إخراج
+movie | بطولة
+tv | مسلسل بعنوان
+tv | مسلسل يسمى
+tv | برنامج بعنوان
+tv | من إنتاج
+song | أغنية بعنوان
+song | أغنية تسمى
+song | ألبوم بعنوان
+song | أصدر ألبوماً بعنوان
+song | أصدر أغنية بعنوان
+podcast | بودكاست بعنوان
+podcast | بودكاست يسمى
+podcast | قيل في البودكاست
+podcast | بودكاست يقدمه
+map | خريطة
+map | أرني خريطة
+map | الحدود بين
+map | عاصمة
+
+# ── bn ────────────────────────────────────────────────
+book | নামের একটি বই
+book | শিরোনামের একটি বই
+book | নামের একটি উপন্যাস
+book | একটি বই প্রকাশ করেছেন
+book | বইটির লেখক
+book | namer ekti boi
+book | namer ekti upanyas
+book | boi prokash korechen
+book | boi er lekhok
+paper | নামের একটি গবেষণাপত্র
+paper | গবেষণায় দেখা গেছে যে
+paper | arxiv এ প্রকাশিত
+paper | namer ekti gobeshonapat
+paper | gobeshonay dekha gache je
+paper | arxiv e prokashit
+movie | নামের একটি চলচ্চিত্র
+movie | নামের একটি তথ্যচিত্র
+movie | পরিচালক হলেন
+movie | namer ekti chalachitra
+movie | porichalok holen
+tv | নামের একটি সিরিজ
+tv | নামের একটি ধারাবাহিক
+tv | namer ekti series
+song | নামের একটি গান
+song | নামের একটি অ্যালবাম
+song | namer ekti gaan
+song | namer ekti album
+podcast | নামের একটি পডকাস্ট
+podcast | পডকাস্টে বলেছেন
+podcast | namer ekti podcast
+podcast | podcast e bolechen
+map | এর মানচিত্র
+map | মানচিত্র দেখাও
+map | এর রাজধানী
+map | er manchitra
+map | er rajdhani
+
+# ── de ────────────────────────────────────────────────
+book | ein buch namens
+book | ein buch mit dem titel
+book | ein buch von
+book | ein roman namens
+book | ein roman mit dem titel
+book | ein roman von
+book | eine biografie über
+book | eine biografie mit dem titel
+book | memoiren mit dem titel
+book | hat ein buch veröffentlicht namens
+book | hat ein buch veröffentlicht mit dem titel
+book | in seinem buch namens
+book | in ihrem buch namens
+book | der autor von
+paper | ein artikel namens
+paper | ein artikel mit dem titel
+paper | ein artikel über
+paper | eine studie namens
+paper | eine studie über
+paper | eine neue studie
+paper | eine aktuelle studie
+paper | ein forschungsartikel mit dem titel
+paper | hat einen artikel veröffentlicht mit dem titel
+paper | hat eine studie veröffentlicht über
+paper | in einem veröffentlichten artikel
+paper | die studie ergab dass
+paper | der artikel argumentiert dass
+paper | auf arxiv
+paper | auf arxiv veröffentlicht
+paper | ein preprint mit dem titel
+movie | ein film namens
+movie | ein film mit dem titel
+movie | ein film von
+movie | ein dokumentarfilm namens
+movie | ein dokumentarfilm über
+movie | regie geführt von
+movie | hat einen film veröffentlicht namens
+movie | ein kurzfilm namens
+movie | ein biopic über
+tv | eine serie namens
+tv | eine serie mit dem titel
+tv | eine serie von
+tv | eine sendung namens
+tv | eine miniserie namens
+tv | eine fernsehserie namens
+tv | eine dokuserie über
+song | ein lied namens
+song | ein lied mit dem titel
+song | ein lied von
+song | ein album namens
+song | ein album mit dem titel
+song | ein album von
+song | eine single namens
+song | hat ein album veröffentlicht namens
+song | hat einen song veröffentlicht namens
+podcast | ein podcast namens
+podcast | ein podcast mit dem titel
+podcast | ein podcast von
+podcast | ein podcast moderiert von
+podcast | im podcast gesagt
+podcast | im podcast besprochen
+map | eine karte von
+map | zeig mir eine karte von
+map | die geografie von
+map | die grenze zwischen
+map | die hauptstadt von
+movie | ein neuer film namens
+movie | ein neuer film mit dem titel
+
+# ── dravidian ─────────────────────────────────────────
+book | என்ற ஒரு புத்தகம்
+book | என்ற பெயரிலான புத்தகம்
+book | என்ற ஒரு நாவல்
+book | புத்தகம் வெளியிட்டார்
+book | புத்தகத்தின் ஆசிரியர்
+book | endra oru puttakam
+book | peyarilana puttakam
+book | puttakattin aasiriyar
+paper | என்ற ஒரு ஆய்வுக் கட்டுரை
+paper | ஆய்வில் கண்டறியப்பட்டது
+paper | arxiv இல் வெளியிடப்பட்டது
+paper | endra oru aayvuk katturai
+paper | aayvil kandariayappattadu
+movie | என்ற ஒரு திரைப்படம்
+movie | என்ற ஒரு தொகுப்பு
+movie | இயக்குனர்
+movie | endra oru thiraippadam
+movie | iyakkunar
+tv | என்ற ஒரு தொடர்
+movie | என்ற ஒரு நிகழ்ச்சி
+tv | endra oru thodar
+song | என்ற ஒரு பாடல்
+song | என்ற ஒரு ஆல்பம்
+song | endra oru paadal
+song | endra oru aalbam
+podcast | என்ற ஒரு பாட்காஸ்ட்
+podcast | பாட்காஸ்டில் கூறினார்
+podcast | endra oru podcast
+map | இன் வரைபடம்
+map | வரைபடம் காட்டு
+map | இன் தலைநகரம்
+map | in varaippadam
+map | in thalainagaraam
+book | అనే ఒక పుస్తకం
+book | అనే పేరు గల పుస్తకం
+book | అనే ఒక నవల
+book | పుస్తకం ప్రచురించారు
+book | పుస్తకం యొక్క రచయిత
+book | ane oka pustakam
+book | pustakam yokka rachayita
+paper | అనే ఒక పరిశోధన పత్రం
+paper | అధ్యయనంలో కనుగొనబడింది
+paper | arxiv లో ప్రచురించబడింది
+paper | ane oka parishodhana patram
+paper | arxiv lo prachurinchababindi
+movie | అనే ఒక సినిమా
+movie | అనే ఒక డాక్యుమెంటరీ
+movie | దర్శకుడు
+movie | ane oka cinema
+movie | darshakudu
+tv | అనే ఒక సిరీస్
+tv | ane oka series
+song | అనే ఒక పాట
+song | అనే ఒక ఆల్బమ్
+song | ane oka paata
+song | ane oka album
+podcast | అనే ఒక పాడ్‌కాస్ట్
+podcast | పాడ్‌కాస్ట్‌లో చెప్పారు
+podcast | ane oka podcast
+map | యొక్క మ్యాప్
+map | యొక్క రాజధాని
+map | yokka map
+map | yokka rajadhani
+book | ಎಂಬ ಒಂದು ಪುಸ್ತಕ
+book | ಎಂಬ ಹೆಸರಿನ ಪುಸ್ತಕ
+book | ಎಂಬ ಒಂದು ಕಾದಂಬರಿ
+book | ಪುಸ್ತಕ ಪ್ರಕಟಿಸಿದರು
+book | ಪುಸ್ತಕದ ಲೇಖಕ
+book | emba ondu pustaka
+book | pustakada lekhaka
+paper | ಎಂಬ ಒಂದು ಸಂಶೋಧನಾ ಪ್ರಬಂಧ
+paper | ಅಧ್ಯಯನದಲ್ಲಿ ಕಂಡುಬಂದಿದೆ
+paper | arxiv ನಲ್ಲಿ ಪ್ರಕಟಿಸಲಾಗಿದೆ
+paper | emba ondu samshodhana prabandha
+paper | arxiv nalli prakatisalagide
+movie | ಎಂಬ ಒಂದು ಚಲನಚಿತ್ರ
+movie | ಎಂಬ ಒಂದು ಸಾಕ್ಷ್ಯಚಿತ್ರ
+movie | ನಿರ್ದೇಶಕರು
+movie | emba ondu chalanachitra
+movie | nirdeshakaru
+tv | ಎಂಬ ಒಂದು ಸರಣಿ
+tv | emba ondu sarani
+song | ಎಂಬ ಒಂದು ಹಾಡು
+song | ಎಂಬ ಒಂದು ಆಲ್ಬಮ್
+song | emba ondu haadu
+podcast | ಎಂಬ ಒಂದು ಪಾಡ್‌ಕಾಸ್ಟ್
+podcast | ಪಾಡ್‌ಕಾಸ್ಟ್‌ನಲ್ಲಿ ಹೇಳಿದರು
+podcast | emba ondu podcast
+map | ಯ ನಕ್ಷೆ
+map | ಯ ರಾಜಧಾನಿ
+map | ya nakshe
+map | ya rajadhani
+book | എന്ന ഒരു പുസ്തകം
+book | എന്ന പേരിലുള്ള പുസ്തകം
+book | എന്ന ഒരു നോവൽ
+book | പുസ്തകം പ്രസിദ്ധീകരിച്ചു
+book | പുസ്തകത്തിന്റെ രചയിതാവ്
+book | enna oru pustakam
+book | pustakathinte rachayitaav
+paper | എന്ന ഒരു ഗവേഷണ പ്രബന്ധം
+paper | പഠനത്തിൽ കണ്ടെത്തി
+paper | arxiv ൽ പ്രസിദ്ധീകരിച്ചു
+paper | enna oru gaveshana prabandham
+paper | arxiv il prasiddheekarichchu
+movie | എന്ന ഒരു ചലച്ചിത്രം
+movie | എന്ന ഒരു ഡോക്യുമെന്ററി
+movie | സംവിധായകൻ
+movie | enna oru chalacchithram
+movie | samvidhaayakan
+tv | എന്ന ഒരു സീരീസ്
+tv | enna oru series
+song | എന്ന ഒരു പാട്ട്
+song | എന്ന ഒരു ആൽബം
+song | enna oru paattu
+podcast | എന്ന ഒരു പോഡ്കാസ്റ്റ്
+podcast | പോഡ്കാസ്റ്റിൽ പറഞ്ഞു
+podcast | enna oru podcast
+map | യുടെ ഭൂപടം
+map | യുടെ തലസ്ഥാനം
+map | yude bhoopadam
+map | yude thalasthaanam
+
+# ── en ────────────────────────────────────────────────
+book | a book called
+book | a book titled
+book | a book entitled
+book | a book by
+book | a book about
+book | a novel called
+book | a novel titled
+book | a novel by
+book | a novel about
+book | a memoir called
+book | a memoir titled
+book | a memoir by
+book | a biography called
+book | a biography titled
+book | a biography of
+book | an autobiography called
+book | a textbook called
+book | a textbook titled
+book | published a book called
+book | published a book titled
+book | published a book on
+book | released a book called
+book | wrote a book called
+book | wrote a book titled
+book | in his book called
+book | in her book called
+book | in their book called
+book | in the book called
+book | the author of
+paper | a paper called
+paper | a paper titled
+paper | a paper on
+paper | a paper about
+paper | a paper by
+paper | a study called
+paper | a study titled
+paper | a study on
+paper | a recent study
+paper | a new study
+paper | a research paper called
+paper | a research paper on
+paper | published a paper called
+paper | published a paper titled
+paper | published a paper on
+paper | published a paper about
+paper | published a study called
+paper | published a study on
+paper | posted on arxiv
+paper | arxiv paper
+paper | in a paper published
+paper | in a study published
+paper | the paper found that
+paper | the study found that
+paper | the paper argues that
+paper | the paper shows that
+paper | a preprint called
+paper | a meta-analysis of
+paper | a systematic review of
+movie | a film called
+movie | a film titled
+movie | a film by
+movie | a movie called
+movie | a movie titled
+movie | a movie by
+movie | a documentary called
+movie | a documentary titled
+movie | a documentary about
+movie | a documentary on
+movie | a short film called
+movie | directed by
+movie | released a film called
+movie | released a movie called
+movie | released a documentary called
+movie | made a film called
+movie | a biopic called
+movie | a biopic about
+tv | a show called
+tv | a show titled
+tv | a series called
+tv | a series titled
+tv | a tv show called
+tv | a tv series called
+tv | a miniseries called
+tv | a limited series called
+tv | a docuseries called
+tv | a docuseries about
+tv | a show created by
+tv | a series created by
+tv | released a series called
+tv | released a show called
+tv | an anime called
+tv | an anime titled
+song | a song called
+song | a song titled
+song | a song by
+song | a track called
+song | a track by
+song | a single called
+song | a single titled
+song | a single by
+song | an album called
+song | an album titled
+song | an album by
+song | an ep called
+song | released an album called
+song | released a song called
+song | released a single called
+song | dropped an album called
+song | dropped a single called
+song | dropped a track called
+podcast | a podcast called
+podcast | a podcast titled
+podcast | a podcast about
+podcast | a podcast hosted by
+podcast | a podcast by
+podcast | on the podcast
+podcast | said on the podcast
+podcast | discussed on the podcast
+podcast | talked about on the podcast
+podcast | mentioned on the podcast
+map | a map of
+map | show me a map of
+map | show a map of
+map | pull up a map of
+map | put up a map of
+map | imagine a map of
+map | picture a map of
+map | look at a map of
+map | the geography of
+map | the border between
+map | the capital of
+map | the capital city of
+book | a new novel called
+book | a classic memoir by
+book | an acclaimed memoir by
+movie | a classic documentary called
+tv | a limited series titled
+
+# ── es ────────────────────────────────────────────────
+book | un libro llamado
+book | un libro titulado
+book | un libro de
+book | una novela llamada
+book | una novela titulada
+book | una novela de
+book | una novela que se llama
+book | una biografía de
+book | una biografía titulada
+book | unas memorias tituladas
+book | publicó un libro llamado
+book | publicó un libro titulado
+book | lanzó un libro llamado
+book | en su libro llamado
+book | en su libro titulado
+book | el autor de
+paper | un artículo llamado
+paper | un artículo titulado
+paper | un artículo sobre
+paper | un estudio llamado
+paper | un estudio titulado
+paper | un estudio sobre
+paper | un estudio reciente
+paper | un artículo de investigación titulado
+paper | publicó un artículo titulado
+paper | publicó un estudio sobre
+paper | en un artículo publicado
+paper | el estudio encontró que
+paper | el artículo argumenta que
+paper | en arxiv
+paper | publicado en arxiv
+paper | un preprint titulado
+movie | una película llamada
+movie | una película titulada
+movie | una película de
+movie | una película dirigida por
+movie | un documental llamado
+movie | un documental titulado
+movie | un documental sobre
+movie | dirigida por
+movie | lanzó una película llamada
+movie | un cortometraje llamado
+movie | un biopic sobre
+tv | una serie llamada
+tv | una serie titulada
+tv | una serie creada por
+tv | un programa llamado
+tv | un programa titulado
+tv | una miniserie llamada
+tv | una serie de televisión llamada
+tv | un docuserie sobre
+song | una canción llamada
+song | una canción titulada
+song | una canción de
+song | un álbum llamado
+song | un álbum titulado
+song | un álbum de
+song | un sencillo llamado
+song | lanzó un álbum llamado
+song | lanzó una canción llamada
+song | lanzó un sencillo llamado
+song | sacó un álbum llamado
+podcast | un podcast llamado
+podcast | un podcast titulado
+podcast | un podcast de
+podcast | un podcast presentado por
+podcast | dijo en el podcast
+podcast | discutido en el podcast
+podcast | mencionado en el podcast
+map | un mapa de
+map | muéstrame un mapa de
+map | la geografía de
+map | la frontera entre
+map | la capital de
+
+# ── fa ────────────────────────────────────────────────
+book | کتابی به نام
+book | کتابی با عنوان
+book | رمانی به نام
+book | رمانی با عنوان
+book | کتابی منتشر کرد به نام
+book | در کتابش به نام
+book | نویسنده کتاب
+paper | مقاله‌ای به نام
+paper | مقاله‌ای با عنوان
+paper | مطالعه‌ای به نام
+paper | مقاله‌ای منتشر کرد
+paper | مطالعه نشان داد که
+paper | در arxiv
+paper | منتشر شده در arxiv
+movie | فیلمی به نام
+movie | فیلمی با عنوان
+movie | مستندی به نام
+movie | کارگردانی شده توسط
+movie | با بازی
+tv | سریالی به نام
+tv | برنامه‌ای به نام
+song | آهنگی به نام
+song | آلبومی به نام
+song | آلبومی منتشر کرد به نام
+podcast | پادکستی به نام
+podcast | در پادکست گفت
+map | نقشه
+map | نقشه‌ای از
+map | مرز بین
+map | پایتخت
+
+# ── fr ────────────────────────────────────────────────
+book | un livre appelé
+book | un livre intitulé
+book | un livre de
+book | un roman appelé
+book | un roman intitulé
+book | un roman de
+book | un roman qui s'appelle
+book | une biographie de
+book | une biographie intitulée
+book | un mémoire intitulé
+book | une autobiographie intitulée
+book | a publié un livre intitulé
+book | a publié un livre appelé
+book | a sorti un livre intitulé
+book | dans son livre intitulé
+book | dans son livre appelé
+book | l'auteur de
+paper | un article intitulé
+paper | un article appelé
+paper | un article sur
+paper | une étude intitulée
+paper | une étude sur
+paper | une étude récente
+paper | un article de recherche intitulé
+paper | a publié un article intitulé
+paper | a publié une étude sur
+paper | dans un article publié
+paper | l'étude a révélé que
+paper | l'article affirme que
+paper | sur arxiv
+paper | publié sur arxiv
+paper | un preprint intitulé
+paper | une méta-analyse de
+movie | un film appelé
+movie | un film intitulé
+movie | un film de
+movie | un documentaire appelé
+movie | un documentaire intitulé
+movie | un documentaire sur
+movie | un court-métrage intitulé
+movie | réalisé par
+movie | a sorti un film intitulé
+movie | un biopic sur
+tv | une série appelée
+tv | une série intitulée
+tv | une série créée par
+tv | une émission appelée
+tv | une émission intitulée
+tv | une mini-série intitulée
+tv | une série télévisée appelée
+tv | un docusérie sur
+song | une chanson appelée
+song | une chanson intitulée
+song | une chanson de
+song | un album appelé
+song | un album intitulé
+song | un album de
+song | un single intitulé
+song | a sorti un album intitulé
+song | a sorti une chanson intitulée
+song | a sorti un single intitulé
+podcast | un podcast appelé
+podcast | un podcast intitulé
+podcast | un podcast animé par
+podcast | dit dans le podcast
+podcast | discuté dans le podcast
+podcast | mentionné dans le podcast
+map | une carte de
+map | montrez-moi une carte de
+map | la géographie de
+map | la frontière entre
+map | la capitale de
+movie | un nouveau film appelé
+movie | un nouveau film intitulé
+
+# ── gu_pa ─────────────────────────────────────────────
+book | નામનું એક પુસ્તક
+book | નામની એક નવલકથા
+book | એક પુસ્તક પ્રકાશિત કર્યું
+book | પુસ્તકના લેખક
+book | naamnu ek pustak
+book | naamni ek navalakatha
+book | pustakna lekhak
+paper | નામનો એક સંશોધન લેખ
+paper | અભ્યાસ દર્શાવે છે કે
+paper | arxiv પર પ્રકાશિત
+paper | naamno ek sanshodhan lekh
+paper | abhyas darshave chhe ke
+movie | નામની એક ફિલ્મ
+movie | દિગ્દર્શક છે
+movie | naamni ek film
+movie | digdarshak chhe
+tv | નામની એક શ્રેણી
+tv | naamni ek shreni
+song | નામનું એક ગીત
+song | નામનું એક આલ્બમ
+song | naamnu ek geet
+song | naamnu ek album
+podcast | નામનો એક પૉડકાસ્ટ
+podcast | પૉડકાસ્ટમાં કહ્યું
+podcast | naamno ek podcast
+map | નો નકશો
+map | નકશો બતાવો
+map | ની રાજધાની
+map | no naksho
+map | ni rajdhani
+book | ਨਾਮ ਦੀ ਇੱਕ ਕਿਤਾਬ
+book | ਨਾਮ ਦਾ ਇੱਕ ਨਾਵਲ
+book | ਇੱਕ ਕਿਤਾਬ ਪ੍ਰਕਾਸ਼ਿਤ ਕੀਤੀ
+book | ਕਿਤਾਬ ਦੇ ਲੇਖਕ
+book | naam di ikk kitaab
+book | naam da ikk novel
+book | kitaab de lekhak
+paper | ਨਾਮ ਦਾ ਇੱਕ ਖੋਜ ਪੱਤਰ
+paper | ਅਧਿਐਨ ਵਿੱਚ ਪਾਇਆ ਗਿਆ ਕਿ
+paper | arxiv ਤੇ ਪ੍ਰਕਾਸ਼ਿਤ
+paper | naam da ikk khoj patar
+paper | adhiayan vich paaya gaya ki
+movie | ਨਾਮ ਦੀ ਇੱਕ ਫਿਲਮ
+movie | ਨਿਰਦੇਸ਼ਕ ਹਨ
+movie | naam di ikk film
+movie | nirdeshak han
+tv | ਨਾਮ ਦੀ ਇੱਕ ਲੜੀ
+tv | naam di ikk ladi
+song | ਨਾਮ ਦਾ ਇੱਕ ਗਾਣਾ
+song | ਨਾਮ ਦਾ ਇੱਕ ਐਲਬਮ
+song | naam da ikk gaana
+song | naam da ikk album
+podcast | ਨਾਮ ਦਾ ਇੱਕ ਪੋਡਕਾਸਟ
+podcast | ਪੋਡਕਾਸਟ ਵਿੱਚ ਕਿਹਾ
+podcast | naam da ikk podcast
+map | ਦਾ ਨਕਸ਼ਾ
+map | ਦੀ ਰਾਜਧਾਨੀ
+map | da naqsha
+map | di rajdhani
+
+# ── hi ────────────────────────────────────────────────
+book | एक किताब जिसका नाम है
+book | एक किताब जिसका नाम
+book | एक उपन्यास जिसका नाम है
+book | एक किताब लिखी जिसका नाम है
+book | एक किताब प्रकाशित की जिसका नाम है
+book | उनकी किताब जिसका नाम है
+book | किताब का नाम है
+book | किताब के लेखक
+paper | एक पेपर जिसका नाम है
+paper | एक अध्ययन जिसका नाम है
+paper | एक पेपर प्रकाशित किया
+paper | अध्ययन में पाया गया कि
+paper | शोध से पता चलता है कि
+paper | arxiv पर
+paper | arxiv पर प्रकाशित
+movie | एक फिल्म जिसका नाम है
+movie | एक फिल्म रिलीज़ की जिसका नाम है
+movie | एक डॉक्यूमेंट्री जिसका नाम है
+movie | निर्देशक हैं
+movie | में मुख्य भूमिका में
+tv | एक सीरीज जिसका नाम है
+tv | एक वेब सीरीज जिसका नाम है
+tv | एक शो जिसका नाम है
+tv | द्वारा बनाई गई सीरीज
+song | एक गाना जिसका नाम है
+song | एक एल्बम जिसका नाम है
+song | एक एल्बम रिलीज़ किया जिसका नाम है
+song | एक गाना रिलीज़ किया जिसका नाम है
+podcast | एक पॉडकास्ट जिसका नाम है
+podcast | पॉडकास्ट में कहा
+podcast | द्वारा होस्ट किया गया पॉडकास्ट
+map | का नक्शा
+map | नक्शा दिखाओ
+map | के बीच की सीमा
+map | की राजधानी
+book | ek kitaab jiska naam hai
+book | ek upanyas jiska naam hai
+book | ek kitaab likhi jiska naam hai
+book | kitaab ka naam hai
+book | kitaab ke lekhak
+paper | ek paper jiska naam hai
+paper | ek adhyayan jiska naam hai
+paper | paper publish kiya
+paper | adhyayan mein paya gaya ki
+paper | shodh se pata chalta hai ki
+paper | arxiv par
+movie | ek film jiska naam hai
+movie | ek film release ki jiska naam hai
+movie | ek documentary jiska naam hai
+movie | director hain
+tv | ek series jiska naam hai
+tv | ek web series jiska naam hai
+tv | dwara banayi gayi series
+song | ek gaana jiska naam hai
+song | ek album jiska naam hai
+song | album release kiya jiska naam hai
+podcast | ek podcast jiska naam hai
+podcast | podcast mein kaha
+podcast | dwara host kiya gaya podcast
+map | ka naksha
+map | naksha dikhao
+map | ki rajdhani
+
+# ── it ────────────────────────────────────────────────
+book | un libro chiamato
+book | un libro intitolato
+book | un libro di
+book | un romanzo chiamato
+book | un romanzo intitolato
+book | un romanzo di
+book | una biografia di
+book | una biografia intitolata
+book | un'autobiografia intitolata
+book | ha pubblicato un libro chiamato
+book | ha pubblicato un libro intitolato
+book | nel suo libro chiamato
+book | l'autore di
+paper | un articolo chiamato
+paper | un articolo intitolato
+paper | un articolo su
+paper | uno studio chiamato
+paper | uno studio su
+paper | uno studio recente
+paper | un articolo di ricerca intitolato
+paper | ha pubblicato un articolo su
+paper | in un articolo pubblicato
+paper | lo studio ha scoperto che
+paper | l'articolo sostiene che
+paper | su arxiv
+paper | pubblicato su arxiv
+paper | un preprint intitolato
+movie | un film chiamato
+movie | un film intitolato
+movie | un film di
+movie | un documentario chiamato
+movie | un documentario su
+movie | diretto da
+movie | ha rilasciato un film chiamato
+movie | un cortometraggio chiamato
+movie | un biopic su
+tv | una serie chiamata
+tv | una serie intitolata
+tv | una serie creata da
+tv | un programma chiamato
+tv | una miniserie chiamata
+tv | una serie televisiva chiamata
+tv | una docuserie su
+song | una canzone chiamata
+song | una canzone intitolata
+song | una canzone di
+song | un album chiamato
+song | un album intitolato
+song | un album di
+song | un singolo chiamato
+song | ha rilasciato un album chiamato
+song | ha rilasciato una canzone chiamata
+podcast | un podcast chiamato
+podcast | un podcast su
+podcast | un podcast condotto da
+podcast | detto nel podcast
+podcast | discusso nel podcast
+map | una mappa di
+map | mostrami una mappa di
+map | la geografia di
+map | il confine tra
+map | la capitale di
+
+# ── ja ────────────────────────────────────────────────
+book | という本
+book | という小説
+book | という本を書いた
+book | という本を出版した
+book | と題された本
+book | という回顧録
+book | という伝記
+book | の著者
+paper | という論文
+paper | という研究
+paper | という論文を発表した
+paper | という研究を発表した
+paper | と題された論文
+paper | 研究によると
+paper | 研究が示すように
+paper | arxivに投稿された
+paper | arxivの論文
+paper | 研究で明らかになった
+movie | という映画
+movie | という映画を公開した
+movie | という映画を作った
+movie | というドキュメンタリー
+movie | 監督は
+movie | が監督した映画
+movie | 主演は
+tv | というドラマ
+tv | というシリーズ
+tv | という番組
+tv | が制作した
+song | という曲
+song | という歌
+song | というアルバム
+song | というシングル
+song | アルバムをリリースした
+song | 曲をリリースした
+podcast | というポッドキャスト
+podcast | ポッドキャストで言った
+podcast | が司会のポッドキャスト
+map | の地図
+map | 地図を見せて
+map | との国境
+map | の首都
+
+# ── ko ────────────────────────────────────────────────
+book | 라는 책
+book | 이라는 책
+book | 라는 소설
+book | 이라는 소설
+book | 라는 제목의 책
+book | 책을 출판했습니다
+book | 라는 책을 썼습니다
+book | 의 저자
+paper | 라는 논문
+paper | 이라는 논문
+paper | 라는 연구
+paper | 이라는 연구
+paper | 논문을 발표했습니다
+paper | 연구에 따르면
+paper | 연구 결과
+paper | arxiv에 게재된
+movie | 라는 영화
+movie | 이라는 영화
+movie | 라는 다큐멘터리
+movie | 이라는 다큐멘터리
+movie | 감독
+movie | 주연은
+tv | 라는 드라마
+tv | 이라는 드라마
+tv | 라는 시리즈
+tv | 라는 프로그램
+song | 라는 노래
+song | 이라는 노래
+song | 라는 앨범
+song | 이라는 앨범
+song | 앨범을 발매했습니다
+song | 노래를 발매했습니다
+podcast | 라는 팟캐스트
+podcast | 이라는 팟캐스트
+podcast | 팟캐스트에서 말했습니다
+podcast | 이 진행하는 팟캐스트
+map | 의 지도
+map | 지도를 보여줘
+map | 사이의 국경
+map | 의 수도
+
+# ── mr ────────────────────────────────────────────────
+book | नावाचे एक पुस्तक
+book | नावाची एक कादंबरी
+book | एक पुस्तक प्रकाशित केले
+book | पुस्तकाचे लेखक
+book | navaache ek pustak
+book | navaachi ek kadambari
+book | pustakache lekhak
+paper | नावाचा एक शोधनिबंध
+paper | अभ्यासात असे आढळले की
+paper | arxiv वर प्रकाशित
+paper | navacha ek shodhnibandh
+paper | abhyasat aashe aadhale ki
+movie | नावाचा एक चित्रपट
+movie | नावाचा एक माहितीपट
+movie | दिग्दर्शक आहेत
+movie | navacha ek chitrapat
+movie | digdarshak aahet
+tv | नावाची एक मालिका
+tv | navaachi ek malika
+song | नावाचे एक गाणे
+song | नावाचा एक अल्बम
+song | navaache ek gaane
+podcast | नावाचा एक पॉडकास्ट
+podcast | पॉडकास्टमध्ये सांगितले
+podcast | navacha ek podcast
+map | चा नकाशा
+map | नकाशा दाखवा
+map | ची राजधानी
+map | cha nakasha
+map | chi rajdhani
+
+# ── nl ────────────────────────────────────────────────
+book | een boek genaamd
+book | een boek getiteld
+book | een boek van
+book | een roman genaamd
+book | een roman van
+book | een biografie van
+book | een biografie getiteld
+book | heeft een boek gepubliceerd genaamd
+book | in zijn boek genaamd
+book | in haar boek genaamd
+book | de auteur van
+paper | een artikel genaamd
+paper | een artikel over
+paper | een studie genaamd
+paper | een studie over
+paper | een recente studie
+paper | een onderzoeksartikel getiteld
+paper | heeft een artikel gepubliceerd over
+paper | de studie concludeerde dat
+paper | op arxiv
+paper | een preprint getiteld
+movie | een film genaamd
+movie | een film getiteld
+movie | een film van
+movie | een documentaire genaamd
+movie | een documentaire over
+movie | geregisseerd door
+movie | heeft een film uitgebracht genaamd
+tv | een serie genaamd
+tv | een serie getiteld
+tv | een serie gemaakt door
+tv | een programma genaamd
+tv | een miniserie genaamd
+song | een liedje genaamd
+song | een nummer genaamd
+song | een album genaamd
+song | een album van
+song | een single genaamd
+song | heeft een album uitgebracht genaamd
+song | heeft een nummer uitgebracht genaamd
+podcast | een podcast genaamd
+podcast | een podcast van
+podcast | een podcast gepresenteerd door
+podcast | gezegd in de podcast
+podcast | besproken in de podcast
+map | een kaart van
+map | laat me een kaart zien van
+map | de geografie van
+map | de grens tussen
+map | de hoofdstad van
+
+# ── other ─────────────────────────────────────────────
+book | หนังสือชื่อ
+book | หนังสือที่มีชื่อว่า
+book | นิยายชื่อ
+book | ตีพิมพ์หนังสือชื่อ
+book | ผู้แต่งหนังสือ
+paper | บทความวิจัยชื่อ
+paper | การศึกษาชื่อ
+paper | การศึกษาพบว่า
+paper | บน arxiv
+movie | ภาพยนตร์ชื่อ
+movie | สารคดีชื่อ
+movie | กำกับโดย
+tv | ซีรีส์ชื่อ
+tv | รายการชื่อ
+song | เพลงชื่อ
+song | อัลบั้มชื่อ
+song | ออกอัลบั้มชื่อ
+podcast | พอดแคสต์ชื่อ
+podcast | พูดในพอดแคสต์
+map | แผนที่ของ
+map | ชายแดนระหว่าง
+map | เมืองหลวงของ
+book | một cuốn sách có tên
+book | một cuốn sách được gọi là
+book | một cuốn tiểu thuyết có tên
+book | đã xuất bản một cuốn sách có tên
+book | tác giả của cuốn sách
+paper | một bài báo có tên
+paper | một nghiên cứu có tên
+paper | nghiên cứu cho thấy rằng
+paper | trên arxiv
+movie | một bộ phim có tên
+movie | một bộ phim tài liệu có tên
+movie | đạo diễn bởi
+tv | một bộ phim truyền hình có tên
+tv | một series có tên
+song | một bài hát có tên
+song | một album có tên
+song | đã phát hành album có tên
+podcast | một podcast có tên
+podcast | nói trong podcast
+map | bản đồ của
+map | biên giới giữa
+map | thủ đô của
+book | sebuah buku berjudul
+book | sebuah buku bernama
+book | sebuah novel berjudul
+book | menerbitkan buku berjudul
+book | dalam bukunya berjudul
+book | penulis buku
+paper | sebuah makalah berjudul
+paper | sebuah studi berjudul
+paper | studi menemukan bahwa
+paper | di arxiv
+movie | sebuah film berjudul
+movie | sebuah dokumenter berjudul
+movie | disutradarai oleh
+tv | sebuah serial berjudul
+tv | sebuah acara berjudul
+song | sebuah lagu berjudul
+song | sebuah album berjudul
+song | merilis album berjudul
+podcast | sebuah podcast berjudul
+podcast | dikatakan dalam podcast
+podcast | podcast yang dipandu oleh
+map | peta dari
+map | batas antara
+map | ibu kota dari
+book | kitabu kinachoitwa
+book | kitabu chenye jina la
+book | riwaya inayoitwa
+book | alichapisha kitabu kinachoitwa
+book | mwandishi wa kitabu
+paper | makala inayoitwa
+paper | utafiti unaoitwa
+paper | utafiti uligundua kwamba
+paper | kwenye arxiv
+movie | filamu inayoitwa
+movie | filamu ya nyaraka inayoitwa
+movie | ikiongozwa na
+tv | mfululizo unaoitwa
+tv | kipindi kinachoitwa
+song | wimbo unaoitwa
+song | albamu inayoitwa
+song | alitoa albamu inayoitwa
+podcast | podikasti inayoitwa
+podcast | alisema kwenye podikasti
+map | ramani ya
+map | mpaka kati ya
+map | mji mkuu wa
+
+# ── pl ────────────────────────────────────────────────
+book | książka zatytułowana
+book | książka o nazwie
+book | powieść zatytułowana
+book | powieść o nazwie
+book | biografia zatytułowana
+book | opublikował książkę zatytułowaną
+book | wydał książkę zatytułowaną
+book | w jego książce zatytułowanej
+book | autor książki
+paper | artykuł zatytułowany
+paper | artykuł o
+paper | badanie zatytułowane
+paper | badanie o
+paper | nowe badanie
+paper | opublikował artykuł zatytułowany
+paper | w opublikowanym artykule
+paper | badanie wykazało że
+paper | na arxiv
+movie | film zatytułowany
+movie | film o nazwie
+movie | film o
+movie | dokument zatytułowany
+movie | wyreżyserowany przez
+movie | wydał film zatytułowany
+tv | serial zatytułowany
+tv | serial o nazwie
+tv | program zatytułowany
+tv | miniserial zatytułowany
+song | piosenka zatytułowana
+song | album zatytułowany
+song | singiel zatytułowany
+song | wydał album zatytułowany
+song | wydał piosenkę zatytułowaną
+podcast | podcast zatytułowany
+podcast | podcast o
+podcast | powiedział w podcaście
+podcast | omówione w podcaście
+map | mapa
+map | mapa kraju
+map | granica między
+map | stolica
+
+# ── pt ────────────────────────────────────────────────
+book | um livro chamado
+book | um livro intitulado
+book | um livro de
+book | um romance chamado
+book | um romance intitulado
+book | um romance de
+book | uma biografia de
+book | uma biografia intitulada
+book | umas memórias intituladas
+book | publicou um livro chamado
+book | lançou um livro chamado
+book | no seu livro chamado
+book | o autor de
+paper | um artigo chamado
+paper | um artigo intitulado
+paper | um artigo sobre
+paper | um estudo chamado
+paper | um estudo sobre
+paper | um estudo recente
+paper | um artigo de pesquisa intitulado
+paper | publicou um artigo sobre
+paper | num artigo publicado
+paper | o estudo descobriu que
+paper | no arxiv
+paper | publicado no arxiv
+paper | um preprint intitulado
+movie | um filme chamado
+movie | um filme intitulado
+movie | um filme de
+movie | um documentário chamado
+movie | um documentário sobre
+movie | dirigido por
+movie | lançou um filme chamado
+movie | um curta-metragem chamado
+movie | um biopic sobre
+tv | uma série chamada
+tv | uma série intitulada
+tv | uma série criada por
+tv | um programa chamado
+tv | uma minissérie chamada
+tv | uma série de televisão chamada
+song | uma música chamada
+song | uma música intitulada
+song | uma música de
+song | um álbum chamado
+song | um álbum intitulado
+song | um álbum de
+song | um single chamado
+song | lançou um álbum chamado
+song | lançou uma música chamada
+podcast | um podcast chamado
+podcast | um podcast sobre
+podcast | um podcast apresentado por
+podcast | disse no podcast
+podcast | discutido no podcast
+map | um mapa de
+map | me mostre um mapa de
+map | a geografia de
+map | a fronteira entre
+map | a capital de
+
+# ── ru ────────────────────────────────────────────────
+book | книга под названием
+book | книга с названием
+book | роман под названием
+book | роман с названием
+book | биография под названием
+book | биография о
+book | мемуары под названием
+book | опубликовал книгу под названием
+book | опубликовала книгу под названием
+book | выпустил книгу под названием
+book | в его книге под названием
+book | в её книге под названием
+book | автор книги
+paper | статья под названием
+paper | статья о
+paper | исследование под названием
+paper | исследование о
+paper | новое исследование
+paper | опубликовал статью под названием
+paper | опубликовал исследование о
+paper | в опубликованной статье
+paper | исследование показало что
+paper | статья утверждает что
+paper | на arxiv
+paper | опубликовано на arxiv
+movie | фильм под названием
+movie | фильм с названием
+movie | документальный фильм под названием
+movie | документальный фильм о
+movie | режиссёр
+movie | снял фильм под названием
+movie | короткометражка под названием
+tv | сериал под названием
+tv | шоу под названием
+tv | телесериал под названием
+tv | созданный
+song | песня под названием
+song | альбом под названием
+song | альбом с названием
+song | сингл под названием
+song | выпустил альбом под названием
+song | выпустил песню под названием
+podcast | подкаст под названием
+podcast | подкаст о
+podcast | сказал в подкасте
+podcast | обсуждалось в подкасте
+map | карта
+map | карта страны
+map | граница между
+map | столица
+
+# ── tr ────────────────────────────────────────────────
+book | adlı bir kitap
+book | adlı kitap
+book | başlıklı bir kitap
+book | adında bir kitap
+book | adlı bir roman
+book | adında bir roman
+book | kitabının adı
+book | kitap yayımladı adlı
+book | kitabın yazarı
+paper | adlı bir makale
+book | adlı bir çalışma
+paper | makale yayımladı
+paper | çalışma şunu buldu
+paper | araştırma gösteriyor ki
+paper | arxiv üzerinde
+paper | arxivde yayımlandı
+movie | adlı bir film
+movie | adında bir film
+movie | adlı bir belgesel
+movie | yönetmenliğini yaptığı
+movie | başrolde
+movie | film çekti adlı
+tv | adlı bir dizi
+tv | adında bir dizi
+tv | adlı bir program
+tv | tarafından yaratılan dizi
+song | adlı bir şarkı
+song | adlı bir albüm
+song | adında bir albüm
+song | albüm çıkardı adlı
+song | şarkı çıkardı adlı
+podcast | adlı bir podcast
+podcast | podcast'te söyledi
+podcast | tarafından sunulan podcast
+map | harita
+map | haritasını göster
+map | sınır
+map | başkent
+
+# ── uk ────────────────────────────────────────────────
+book | книга під назвою
+book | роман під назвою
+book | біографія під назвою
+book | опублікував книгу під назвою
+book | випустив книгу під назвою
+book | в його книзі під назвою
+paper | стаття під назвою
+paper | дослідження під назвою
+paper | нове дослідження
+paper | опублікував статтю під назвою
+paper | дослідження показало що
+movie | фільм під назвою
+movie | документальний фільм під назвою
+movie | режисер
+movie | зняв фільм під назвою
+tv | серіал під назвою
+tv | шоу під назвою
+song | пісня під назвою
+song | альбом під назвою
+song | сингл під назвою
+song | випустив альбом під назвою
+podcast | подкаст під назвою
+podcast | сказав у подкасті
+map | кордон між
+map | столиця
+
+# ── zh ────────────────────────────────────────────────
+book | 一本书叫做
+book | 一本书叫
+book | 一本书名叫
+book | 一本书题为
+book | 一本小说叫做
+book | 一本小说名叫
+book | 一本传记叫做
+book | 一本回忆录叫做
+book | 出版了一本书叫做
+book | 写了一本书叫做
+book | 这本书的作者
+paper | 一篇论文叫做
+paper | 一篇论文题为
+paper | 一项研究表明
+paper | 发表了一篇论文
+paper | 研究发现
+paper | 在arxiv上
+paper | 发表在arxiv
+movie | 一部电影叫做
+movie | 一部电影叫
+movie | 一部电影名叫
+movie | 一部纪录片叫做
+movie | 导演是
+movie | 主演是
+tv | 一部剧叫做
+tv | 一部电视剧叫做
+tv | 一档节目叫做
+tv | 由制作
+song | 一首歌叫做
+song | 一首歌叫
+song | 一张专辑叫做
+song | 发行了一张专辑
+song | 发行了一首歌
+podcast | 一个播客叫做
+podcast | 在播客里说
+podcast | 主持的播客
+map | 的地图
+map | 显示地图
+map | 之间的边界
+map | 首都是
+book | 一本書叫做
+book | 一本書叫
+book | 一本書名叫
+book | 一本書題為
+book | 一本小說叫做
+book | 一本小說名叫
+book | 一本傳記叫做
+book | 出版了一本書叫做
+book | 這本書的作者
+paper | 一篇論文叫做
+paper | 一篇論文題為
+paper | 一項研究表明
+paper | 發表了一篇論文
+paper | 研究發現
+movie | 一部電影叫做
+movie | 一部電影名叫
+movie | 一部紀錄片叫做
+movie | 導演是
+tv | 一部劇叫做
+tv | 一部電視劇叫做
+tv | 一檔節目叫做
+song | 一張專輯叫做
+song | 發行了一張專輯
+song | 發行了一首歌
+podcast | 一個播客叫做
+podcast | 在播客裡說
+map | 的地圖
+map | 顯示地圖
+map | 之間的邊界

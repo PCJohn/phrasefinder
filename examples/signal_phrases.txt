@@ -1,4 +1,4 @@
-# ref_phrases.txt — reference finder phrases for phrasefinder
+# signal_phrases.txt — reference finder phrases for phrasefinder
 # All languages flattened into one file.
 # Format: label | phrase
 # Lines starting with # are comments.

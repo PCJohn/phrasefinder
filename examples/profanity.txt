@@ -1,0 +1,622 @@
+# profanity.txt — common profane words and phrases for content moderation
+# Format: label | phrase
+# Labels: profanity | sexual
+#
+# Coverage: common words that appear in media ratings, content filters,
+# and academic linguistics. Designed for content moderation use cases.
+# Includes single words and common short phrases.
+#
+# NOTE: Verify native language entries with a native speaker before
+# production use. Languages marked [VERIFY] are best-effort.
+#
+# Lines starting with # <lang> indicate language sections (informational only).
+
+# ── English ───────────────────────────────────────────────────────────────────
+# en
+
+profanity | fuck
+profanity | fucking
+profanity | fucked
+profanity | fucker
+profanity | motherfucker
+profanity | motherfucking
+profanity | shit
+profanity | shitting
+profanity | shitty
+profanity | bullshit
+profanity | horseshit
+profanity | ass
+profanity | asshole
+profanity | bastard
+profanity | bitch
+profanity | bitching
+profanity | son of a bitch
+profanity | damn
+profanity | goddamn
+profanity | hell
+profanity | what the hell
+profanity | crap
+profanity | bloody hell
+profanity | bollocks
+profanity | bugger
+profanity | piss
+profanity | pissed off
+profanity | cunt
+profanity | dick
+profanity | prick
+profanity | wanker
+profanity | tosser
+profanity | jackass
+profanity | dumbass
+profanity | smartass
+profanity | kiss my ass
+profanity | go to hell
+profanity | screw you
+profanity | shut the fuck up
+profanity | what the fuck
+profanity | for fuck's sake
+profanity | piece of shit
+sexual | porn
+sexual | pornography
+sexual | sex tape
+sexual | nude
+sexual | naked photo
+sexual | explicit content
+sexual | adult content
+sexual | blowjob
+sexual | handjob
+sexual | masturbate
+sexual | masturbation
+
+# ── French ────────────────────────────────────────────────────────────────────
+# fr
+
+profanity | merde
+profanity | putain
+profanity | putain de merde
+profanity | bordel
+profanity | bordel de merde
+profanity | connard
+profanity | connasse
+profanity | salaud
+profanity | salope
+profanity | enculé
+profanity | ta gueule
+profanity | va te faire foutre
+profanity | fils de pute
+profanity | foutre
+profanity | allez vous faire foutre
+profanity | sacré bleu
+profanity | batard
+profanity | casse-toi
+profanity | niquer
+profanity | nique ta mère
+sexual | porno
+sexual | contenu explicite
+sexual | contenu adulte
+
+# ── Spanish ───────────────────────────────────────────────────────────────────
+# es
+
+profanity | mierda
+profanity | joder
+profanity | hostia
+profanity | coño
+profanity | puta
+profanity | hijo de puta
+profanity | puto
+profanity | cabrón
+profanity | gilipollas
+profanity | imbécil
+profanity | vete a la mierda
+profanity | me cago en todo
+profanity | qué coño
+profanity | maricón
+profanity | capullo
+profanity | pendejo
+profanity | chinga tu madre
+profanity | chingado
+profanity | güey
+profanity | pinche
+profanity | cabron
+profanity | me vale madre
+sexual | porno
+sexual | contenido explícito
+sexual | contenido para adultos
+
+# ── Portuguese ────────────────────────────────────────────────────────────────
+# pt
+
+profanity | merda
+profanity | porra
+profanity | caralho
+profanity | filho da puta
+profanity | vai se foder
+profanity | foda-se
+profanity | puta que pariu
+profanity | seu idiota
+profanity | idiota
+profanity | desgraçado
+profanity | puta merda
+profanity | que merda
+profanity | bosta
+profanity | fodase
+profanity | babaca
+profanity | viado
+profanity | vai tomar no cu
+sexual | pornografia
+sexual | conteúdo explícito
+sexual | conteúdo adulto
+
+# ── German ────────────────────────────────────────────────────────────────────
+# de
+
+profanity | scheiße
+profanity | scheiß
+profanity | scheiß drauf
+profanity | fick dich
+profanity | verpiss dich
+profanity | arschloch
+profanity | arsch
+profanity | wichser
+profanity | hurensohn
+profanity | mist
+profanity | verdammt
+profanity | verdammt nochmal
+profanity | zum teufel
+profanity | gottverdammt
+profanity | scheiße nochmal
+profanity | halt die klappe
+profanity | dummkopf
+profanity | idiot
+profanity | vollidiot
+profanity | depp
+profanity | schwein
+sexual | pornografie
+sexual | explizite inhalte
+sexual | erwachseneninhalt
+
+# ── Italian ───────────────────────────────────────────────────────────────────
+# it
+
+profanity | cazzo
+profanity | vaffanculo
+profanity | stronzo
+profanity | bastardo
+profanity | figlio di puttana
+profanity | merda
+profanity | porco dio
+profanity | porco cane
+profanity | che cazzo
+profanity | minchia
+profanity | mannaggia
+profanity | fanculo
+profanity | testa di cazzo
+profanity | figlio di troia
+profanity | pezzo di merda
+profanity | va fanculo
+sexual | porno
+sexual | contenuto esplicito
+sexual | contenuto per adulti
+
+# ── Dutch ─────────────────────────────────────────────────────────────────────
+# nl
+
+profanity | godverdomme
+profanity | godverdomme nog aan toe
+profanity | kut
+profanity | kanker
+profanity | klootzak
+profanity | lul
+profanity | eikel
+profanity | schijt
+profanity | fokking
+profanity | rotzooi
+profanity | sodemieter op
+profanity | donder op
+profanity | hou je kop
+profanity | ga naar de hel
+sexual | porno
+sexual | expliciete inhoud
+sexual | volwassen inhoud
+
+# ── Russian ───────────────────────────────────────────────────────────────────
+# ru
+
+profanity | блядь
+profanity | ёбаный
+profanity | пиздец
+profanity | хуй
+profanity | хуйня
+profanity | сука
+profanity | мудак
+profanity | иди нахуй
+profanity | пошёл нахуй
+profanity | залупа
+profanity | ёб твою мать
+profanity | твою мать
+profanity | чёрт
+profanity | блин
+profanity | чёрт возьми
+profanity | идиот
+profanity | дурак
+sexual | порно
+sexual | откровенный контент
+sexual | контент для взрослых
+
+# ── Polish ────────────────────────────────────────────────────────────────────
+# pl
+
+profanity | kurwa
+profanity | kurwa mać
+profanity | pierdolić
+profanity | pierdol się
+profanity | jebać
+profanity | chuj
+profanity | chuj ci w dupę
+profanity | dupek
+profanity | skurwysyn
+profanity | skurwiel
+profanity | spierdolić
+profanity | spierdalaj
+profanity | gówno
+profanity | do cholery
+profanity | do diabła
+profanity | do kurwy nędzy
+sexual | porno
+sexual | treści dla dorosłych
+sexual | treści explict
+
+# ── Ukrainian ─────────────────────────────────────────────────────────────────
+# uk
+
+profanity | бля
+profanity | їбаний
+profanity | пизда
+profanity | хуй
+profanity | сука
+profanity | мудак
+profanity | іди нахуй
+profanity | йобаний
+profanity | чорт
+profanity | дурень
+sexual | порно
+sexual | контент для дорослих
+
+# ── Arabic ────────────────────────────────────────────────────────────────────
+# ar [VERIFY]
+
+profanity | يلعن
+profanity | يلعن دينك
+profanity | ابن الشرموطة
+profanity | كس أمك
+profanity | عرص
+profanity | حمار
+profanity | زبالة
+profanity | اخرس
+profanity | روح اللعب
+profanity | لعنة
+sexual | إباحية
+sexual | محتوى بالغ
+sexual | محتوى صريح
+
+# ── Persian/Farsi ─────────────────────────────────────────────────────────────
+# fa [VERIFY]
+
+profanity | لعنتی
+profanity | گه
+profanity | کثیف
+profanity | خفه شو
+profanity | برو گم شو
+profanity | احمق
+profanity | کودن
+sexual | پورنو
+sexual | محتوای بزرگسال
+
+# ── Turkish ───────────────────────────────────────────────────────────────────
+# tr [VERIFY]
+
+profanity | amk
+profanity | orospu çocuğu
+profanity | siktir
+profanity | siktir git
+profanity | bok
+profanity | boktan
+profanity | lanet olsun
+profanity | kahretsin
+profanity | aptal
+profanity | salak
+profanity | gerizekalı
+sexual | porno
+sexual | yetişkin içerik
+sexual | müstehcen içerik
+
+# ── Hindi ─────────────────────────────────────────────────────────────────────
+# hi — Devanagari
+
+profanity | मादरचोद
+profanity | भड़वा
+profanity | चुतिया
+profanity | साला
+profanity | कमीना
+profanity | हरामी
+profanity | हरामजादा
+profanity | बकवास
+profanity | बेशर्म
+profanity | बेवकूफ
+profanity | गधा
+profanity | सुअर
+sexual | अश्लील
+sexual | पोर्न
+sexual | अश्लील सामग्री
+
+# hi — Roman/Hinglish (STT output)
+
+profanity | madarchod
+profanity | bhadwa
+profanity | chutiya
+profanity | saala
+profanity | kameena
+profanity | haraami
+profanity | haraamzaada
+profanity | bakwaas
+profanity | besharam
+profanity | bevkoof
+sexual | ashleel
+sexual | porn
+sexual | ashleel samagri
+
+# ── Bengali ───────────────────────────────────────────────────────────────────
+# bn [VERIFY] — script
+
+profanity | মাদারচোদ
+profanity | বাল
+profanity | শালা
+profanity | হারামি
+profanity | কুত্তার বাচ্চা
+profanity | বেশ্যার পোলা
+profanity | ছাগল
+profanity | গাধা
+
+# bn — Roman
+
+profanity | madarchod
+profanity | shala
+profanity | haraami
+profanity | kuttar bachcha
+
+# ── Marathi ───────────────────────────────────────────────────────────────────
+# mr [VERIFY] — script
+
+profanity | मादरचोद
+profanity | झवाड्या
+profanity | साल्या
+profanity | हरामखोर
+profanity | गधड्या
+
+# mr — Roman
+
+profanity | madarchod
+profanity | salya
+profanity | haramkhor
+profanity | gadhadya
+
+# ── Gujarati ──────────────────────────────────────────────────────────────────
+# gu [VERIFY] — script
+
+profanity | મા ની આંખ
+profanity | ભડવો
+profanity | હરામી
+profanity | ગધેડો
+
+# gu — Roman
+
+profanity | ma ni aankh
+profanity | bhadvo
+profanity | haraami
+profanity | gadhedo
+
+# ── Punjabi ───────────────────────────────────────────────────────────────────
+# pa [VERIFY] — Gurmukhi
+
+profanity | ਮਾਦਰਚੋਦ
+profanity | ਹਰਾਮੀ
+profanity | ਕੁੱਤੇ ਦਾ ਪੁੱਤ
+profanity | ਸਾਲਾ
+profanity | ਗਧਾ
+
+# pa — Roman
+
+profanity | madarchod
+profanity | haraami
+profanity | kutte da putt
+profanity | saala
+
+# ── Tamil ─────────────────────────────────────────────────────────────────────
+# ta [VERIFY] — script
+
+profanity | ஓடா
+profanity | நாயே
+profanity | தேவடியாள்
+profanity | சூம்பு
+profanity | கழுதை
+
+# ta — Roman
+
+profanity | naaye
+profanity | thevadiya
+profanity | soombu
+profanity | kazhuthe
+
+# ── Telugu ────────────────────────────────────────────────────────────────────
+# te [VERIFY] — script
+
+profanity | దెంగు
+profanity | వెధవ
+profanity | లంజా
+profanity | నాయాల
+
+# te — Roman
+
+profanity | dengu
+profanity | vedhava
+profanity | lanja
+profanity | naayal
+
+# ── Kannada ───────────────────────────────────────────────────────────────────
+# kn [VERIFY] — script
+
+profanity | ಮಗನೇ
+profanity | ಸೂಳೆ
+profanity | ಲಂಜಾ
+
+# kn — Roman
+
+profanity | magane
+profanity | soole
+profanity | lanja
+
+# ── Malayalam ─────────────────────────────────────────────────────────────────
+# ml [VERIFY] — script
+
+profanity | പോടാ
+profanity | മോനേ
+profanity | കഴുത
+
+# ml — Roman
+
+profanity | kazhutha
+
+# ── Japanese ─────────────────────────────────────────────────────────────────
+# ja
+
+profanity | くそ
+profanity | くそっ
+profanity | くそやろう
+profanity | ばか
+profanity | バカ
+profanity | あほ
+profanity | アホ
+profanity | しね
+profanity | うせろ
+profanity | うるさい
+profanity |死ね
+profanity | ふざけるな
+profanity | このやろう
+profanity | てめえ
+profanity | このクソ
+profanity |消えろ
+sexual | ポルノ
+sexual | アダルトコンテンツ
+sexual | 性的なコンテンツ
+
+# ── Chinese ───────────────────────────────────────────────────────────────────
+# zh — Simplified
+
+profanity | 他妈的
+profanity | 操你妈
+profanity | 操
+profanity | 去你妈的
+profanity | 狗日的
+profanity | 混蛋
+profanity | 王八蛋
+profanity | 滚
+profanity | 滚蛋
+profanity | 闭嘴
+profanity | 傻逼
+profanity | 草泥马
+profanity | 妈的
+profanity | 垃圾
+profanity | 废物
+profanity | 白痴
+profanity | 蠢货
+sexual | 色情
+sexual | 成人内容
+sexual | 色情内容
+
+# zh — Traditional
+
+profanity | 他媽的
+profanity | 操你媽
+profanity | 去你媽的
+profanity | 混蛋
+profanity | 王八蛋
+profanity | 滾
+profanity | 閉嘴
+profanity | 傻屄
+profanity | 媽的
+sexual | 色情
+sexual | 成人內容
+
+# ── Korean ────────────────────────────────────────────────────────────────────
+# ko [VERIFY]
+
+profanity | 씨발
+profanity | 개새끼
+profanity | 지랄
+profanity | 병신
+profanity | 미친
+profanity | 닥쳐
+profanity | 꺼져
+profanity | 개소리
+profanity | 망할
+profanity | 빌어먹을
+sexual | 포르노
+sexual | 성인 콘텐츠
+sexual | 음란물
+
+# ── Thai ──────────────────────────────────────────────────────────────────────
+# th [VERIFY]
+
+profanity | อีสัตว์
+profanity | ไอ้สัตว์
+profanity | เหี้ย
+profanity | ระยำ
+profanity | ไอ้บ้า
+profanity | อีบ้า
+profanity | ไอ้โง่
+profanity | ปิดปาก
+sexual | สื่อลามก
+sexual | เนื้อหาสำหรับผู้ใหญ่
+
+# ── Vietnamese ────────────────────────────────────────────────────────────────
+# vi [VERIFY]
+
+profanity | đồ chó
+profanity | đồ khốn
+profanity | mẹ kiếp
+profanity | đổ mẹ mày
+profanity | thằng ngu
+profanity | câm mồm
+profanity | đm
+sexual | khiêu dâm
+sexual | nội dung người lớn
+sexual | nội dung khiêu dâm
+
+# ── Indonesian/Malay ──────────────────────────────────────────────────────────
+# id [VERIFY]
+
+profanity | anjing
+profanity | bangsat
+profanity | brengsek
+profanity | goblok
+profanity | keparat
+profanity | setan
+profanity | sialan
+profanity | tolol
+profanity | tutup mulut
+sexual | pornografi
+sexual | konten dewasa
+sexual | konten eksplisit
+
+# ── Swahili ───────────────────────────────────────────────────────────────────
+# sw [VERIFY]
+
+profanity | mwizi
+profanity | mjinga
+profanity | pumbavu
+profanity | nyamaza
+profanity | kondoo
+profanity | kinywa chako
+sexual | ponografia
+sexual | maudhui ya watu wazima

@@ -259,9 +259,3 @@ finder = PhraseFinder.from_files(
 Single-pass Aho-Corasick: O(n + m) where n = text length, m = total pattern length. Pattern count has negligible effect on search speed.
 
 Typical latency for `find()` on a sentence-length input with 1300 phrases loaded across 29 languages: **5–20 µs**.
-
----
-
-## License
-
-MIT

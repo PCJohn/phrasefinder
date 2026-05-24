@@ -2298,3 +2298,890 @@ podcast | alisema kwenye podikasti
 map | ramani ya
 map | mpaka kati ya
 map | mji mkuu wa
+
+# ── direct commands ───────────────────────────────────────────────────────────
+# Phrases a speaker would use to explicitly request a reference be pulled up.
+# Grouped by language, then category.
+
+# en — English commands
+# Thinking: podcast host mid-conversation, lecturer at whiteboard, meeting participant
+# "can you pull up", "show me", "look up", "find me", "bring up", "search for"
+
+book | show me a book about
+book | show me a book on
+book | show me a book by
+book | show me a book called
+book | find me a book about
+book | find me a book on
+book | find me a book by
+book | find me a book called
+book | look up a book called
+book | look up a book by
+book | look up a book about
+book | pull up that book called
+book | pull up the book called
+book | bring up the book called
+book | can you find a book about
+book | can you find a book called
+book | can you show me a book about
+book | search for a book called
+book | search for a book about
+book | get me a book about
+book | get me a book called
+book | find that book about
+book | find that book called
+book | what's that book about
+book | what's that book called
+book | what was that book about
+book | what was that book called
+book | there's a book about
+
+paper | show me a paper on
+paper | show me a paper about
+paper | show me a study on
+paper | show me a study about
+paper | find me a paper on
+paper | find me a paper about
+paper | find me that paper on
+paper | look up a paper on
+paper | look up a paper about
+paper | look up that study on
+paper | pull up that paper on
+paper | pull up the paper on
+paper | pull up that study on
+paper | can you find a paper on
+paper | can you show me a paper about
+paper | search for a paper on
+paper | search for a paper about
+paper | what was that paper on
+paper | what was that study about
+paper | there's a paper on
+paper | there's a study showing
+
+movie | show me a film called
+movie | show me a movie called
+movie | show me a documentary about
+movie | show me a documentary on
+movie | show me a film by
+movie | find me a film called
+movie | find me a movie called
+movie | find me a documentary about
+movie | look up a film called
+movie | look up a movie called
+movie | pull up that film called
+movie | pull up that movie called
+movie | pull up a clip from
+movie | bring up that documentary about
+movie | can you find a film called
+movie | can you show me a film called
+movie | what's that film called
+movie | what's that movie called
+movie | what was that documentary about
+movie | there's a film called
+movie | there's a movie called
+
+tv | show me a show called
+tv | show me a series called
+tv | find me a show called
+tv | find me a series called
+tv | look up a show called
+tv | look up a series called
+tv | pull up that show called
+tv | pull up that series called
+tv | what's that show called
+tv | what's that series called
+tv | there's a show called
+tv | there's a series called
+
+song | show me a song called
+song | show me a song by
+song | find me a song called
+song | find me a song by
+song | look up a song called
+song | look up a song by
+song | look up an album called
+song | pull up that song called
+song | pull up that album called
+song | play a song called
+song | play a song by
+song | play that song called
+song | what's that song called
+song | what's that song by
+song | what was that song called
+song | there's a song called
+
+podcast | show me a podcast called
+podcast | find me a podcast called
+podcast | find me a podcast about
+podcast | look up a podcast called
+podcast | look up a podcast about
+podcast | pull up that podcast called
+podcast | pull up that episode from
+podcast | what's that podcast called
+podcast | what was that podcast about
+podcast | there's a podcast called
+
+map | show me a map of
+map | pull up a map of
+map | bring up a map of
+map | show me where
+map | can you show me where
+map | put up a map of
+map | show me the location of
+map | where is that on the map
+map | show me the border between
+map | show me the capital of
+
+# fr — French commands
+# "montre-moi", "trouve-moi", "cherche", "affiche", "tu peux trouver"
+
+book | montre-moi un livre sur
+book | montre-moi un livre de
+book | montre-moi un livre appelé
+book | trouve-moi un livre sur
+book | trouve-moi un livre appelé
+book | cherche un livre sur
+book | cherche un livre appelé
+book | tu peux trouver un livre sur
+book | c'est quoi ce livre sur
+book | comment s'appelle ce livre sur
+book | il y a un livre sur
+
+paper | montre-moi un article sur
+paper | trouve-moi un article sur
+paper | cherche une étude sur
+paper | tu peux trouver un article sur
+paper | il y a une étude sur
+
+movie | montre-moi un film appelé
+movie | montre-moi un documentaire sur
+movie | trouve-moi un film appelé
+movie | cherche un film appelé
+movie | c'est quoi ce film appelé
+movie | comment s'appelle ce film
+
+tv | montre-moi une série appelée
+tv | trouve-moi une série appelée
+tv | cherche une série appelée
+tv | c'est quoi cette série appelée
+
+song | montre-moi une chanson appelée
+song | montre-moi une chanson de
+song | trouve-moi une chanson de
+song | cherche une chanson appelée
+song | c'est quoi cette chanson
+
+podcast | montre-moi un podcast appelé
+podcast | trouve-moi un podcast sur
+podcast | cherche un podcast appelé
+
+map | montre-moi une carte de
+map | affiche une carte de
+map | tu peux montrer où est
+map | montre-moi où est
+map | c'est où sur la carte
+
+# es — Spanish commands
+# "muéstrame", "búscame", "encuentra", "¿qué es ese libro sobre...?"
+
+book | muéstrame un libro sobre
+book | muéstrame un libro llamado
+book | búscame un libro sobre
+book | búscame un libro llamado
+book | encuentra un libro sobre
+book | busca un libro llamado
+book | ¿cuál es ese libro sobre
+book | ¿cómo se llama ese libro sobre
+book | hay un libro sobre
+
+paper | muéstrame un artículo sobre
+paper | búscame un artículo sobre
+paper | busca un estudio sobre
+paper | hay un estudio sobre
+
+movie | muéstrame una película llamada
+movie | búscame una película llamada
+movie | busca una película llamada
+movie | ¿cuál es esa película llamada
+movie | hay una película llamada
+
+tv | muéstrame una serie llamada
+tv | búscame una serie llamada
+tv | ¿cuál es esa serie llamada
+
+song | muéstrame una canción llamada
+song | muéstrame una canción de
+song | búscame una canción de
+song | ¿cuál es esa canción llamada
+
+podcast | muéstrame un podcast llamado
+podcast | búscame un podcast sobre
+
+map | muéstrame un mapa de
+map | muéstrame dónde está
+map | pon un mapa de
+map | ¿dónde está eso en el mapa
+
+# de — German commands
+# "zeig mir", "such mir", "finde", "was war das nochmal für ein"
+
+book | zeig mir ein Buch über
+book | zeig mir ein Buch namens
+book | such mir ein Buch über
+book | such mir ein Buch namens
+book | finde ein Buch über
+book | was war das nochmal für ein Buch über
+book | wie hieß das Buch über
+book | es gibt ein Buch über
+
+paper | zeig mir einen Artikel über
+paper | such mir einen Artikel über
+paper | finde eine Studie über
+paper | es gibt eine Studie über
+
+movie | zeig mir einen Film namens
+movie | such mir einen Film namens
+movie | finde einen Film namens
+movie | wie hieß der Film über
+movie | es gibt einen Film namens
+
+tv | zeig mir eine Serie namens
+tv | such mir eine Serie namens
+tv | wie hieß die Serie über
+
+song | zeig mir ein Lied namens
+song | zeig mir ein Lied von
+song | such mir ein Lied von
+song | wie hieß das Lied von
+
+podcast | zeig mir einen Podcast namens
+podcast | such mir einen Podcast über
+
+map | zeig mir eine Karte von
+map | zeig mir wo
+map | ruf eine Karte von
+map | wo liegt das auf der Karte
+
+# it — Italian commands
+
+book | mostrami un libro chiamato
+book | mostrami un libro su
+book | trovami un libro chiamato
+book | cerca un libro su
+book | com'è quel libro chiamato
+book | c'è un libro su
+
+paper | mostrami un articolo su
+paper | trovami un articolo su
+paper | c'è uno studio su
+
+movie | mostrami un film chiamato
+movie | trovami un film chiamato
+movie | com'è quel film chiamato
+movie | c'è un film chiamato
+
+tv | mostrami una serie chiamata
+tv | trovami una serie chiamata
+
+song | mostrami una canzone chiamata
+song | mostrami una canzone di
+song | trovami una canzone di
+
+podcast | mostrami un podcast chiamato
+podcast | trovami un podcast su
+
+map | mostrami una mappa di
+map | mostrami dove si trova
+map | dov'è sulla mappa
+
+# pt — Portuguese commands
+
+book | me mostra um livro chamado
+book | me mostra um livro sobre
+book | me encontra um livro chamado
+book | procura um livro sobre
+book | como chama aquele livro sobre
+book | tem um livro sobre
+
+paper | me mostra um artigo sobre
+paper | procura um estudo sobre
+paper | tem um estudo sobre
+
+movie | me mostra um filme chamado
+movie | me encontra um filme chamado
+movie | como chama aquele filme
+
+tv | me mostra uma série chamada
+tv | me encontra uma série chamada
+
+song | me mostra uma música chamada
+song | me mostra uma música de
+song | procura uma música de
+
+podcast | me mostra um podcast chamado
+podcast | procura um podcast sobre
+
+map | me mostra um mapa de
+map | me mostra onde fica
+map | onde fica isso no mapa
+
+# nl — Dutch commands
+
+book | laat me een boek zien genaamd
+book | zoek een boek over
+book | vind een boek genaamd
+book | hoe heet dat boek over
+
+paper | laat me een artikel zien over
+paper | zoek een studie over
+
+movie | laat me een film zien genaamd
+movie | zoek een film genaamd
+movie | hoe heet die film over
+
+tv | laat me een serie zien genaamd
+tv | zoek een serie genaamd
+
+song | laat me een liedje zien genaamd
+song | zoek een liedje van
+
+podcast | laat me een podcast zien genaamd
+podcast | zoek een podcast over
+
+map | laat me een kaart zien van
+map | laat me zien waar
+map | waar is dat op de kaart
+
+# ru — Russian commands
+
+book | покажи мне книгу о
+book | покажи мне книгу под названием
+book | найди мне книгу о
+book | найди книгу под названием
+book | как называется та книга о
+book | есть книга о
+
+paper | покажи мне статью о
+paper | найди статью о
+paper | есть исследование о
+
+movie | покажи мне фильм под названием
+movie | найди фильм под названием
+movie | как называется тот фильм о
+
+tv | покажи мне сериал под названием
+tv | найди сериал под названием
+
+song | покажи мне песню под названием
+song | найди песню под названием
+song | найди песню от
+
+podcast | покажи мне подкаст под названием
+podcast | найди подкаст о
+
+map | покажи мне карту
+map | покажи где находится
+map | где это на карте
+
+# pl — Polish commands
+
+book | pokaż mi książkę o
+book | pokaż mi książkę zatytułowaną
+book | znajdź mi książkę o
+book | jak się nazywa ta książka o
+
+paper | pokaż mi artykuł o
+paper | znajdź mi artykuł o
+
+movie | pokaż mi film zatytułowany
+movie | znajdź mi film zatytułowany
+movie | jak się nazywa ten film o
+
+tv | pokaż mi serial zatytułowany
+tv | znajdź mi serial zatytułowany
+
+song | pokaż mi piosenkę zatytułowaną
+song | znajdź mi piosenkę od
+
+podcast | pokaż mi podcast o
+podcast | znajdź mi podcast o
+
+map | pokaż mi mapę
+map | pokaż gdzie to jest
+
+# uk — Ukrainian commands
+
+book | покажи мені книгу про
+book | знайди книгу під назвою
+book | як називається та книга про
+
+paper | покажи мені статтю про
+paper | знайди дослідження про
+
+movie | покажи мені фільм під назвою
+movie | знайди фільм під назвою
+
+tv | покажи мені серіал під назвою
+
+song | знайди пісню під назвою
+
+podcast | знайди подкаст про
+
+map | покажи карту
+map | покажи де знаходиться
+
+# ar — Arabic commands
+
+book | أرني كتاباً عن
+book | أرني كتاباً بعنوان
+book | ابحث عن كتاب عن
+book | ابحث عن كتاب اسمه
+book | ما اسم الكتاب عن
+book | هناك كتاب عن
+
+paper | أرني ورقة بحثية عن
+paper | ابحث عن دراسة عن
+paper | هناك دراسة عن
+
+movie | أرني فيلماً اسمه
+movie | أرني فيلماً عن
+movie | ابحث عن فيلم اسمه
+movie | ما اسم الفيلم عن
+
+tv | أرني مسلسلاً اسمه
+tv | ابحث عن مسلسل اسمه
+
+song | أرني أغنية اسمها
+song | ابحث عن أغنية من غناء
+
+podcast | أرني بودكاست اسمه
+podcast | ابحث عن بودكاست عن
+
+map | أرني خريطة
+map | أرني أين يقع
+map | أين هذا على الخريطة
+
+# fa — Persian commands
+
+book | یک کتاب درباره نشانم بده
+book | یک کتاب به نام پیدا کن
+book | اسم اون کتاب درباره چی بود
+
+paper | یک مقاله درباره پیدا کن
+paper | یک تحقیق درباره نشانم بده
+
+movie | یک فیلم به نام نشانم بده
+movie | یک فیلم به نام پیدا کن
+movie | اسم اون فیلم درباره چی بود
+
+tv | یک سریال به نام پیدا کن
+
+song | یک آهنگ به نام پیدا کن
+song | یک آهنگ از پیدا کن
+
+podcast | یک پادکست به نام پیدا کن
+
+map | نقشه نشانم بده
+map | نشانم بده کجاست
+
+# tr — Turkish commands
+
+book | bana bir kitap göster hakkında
+book | hakkında bir kitap bul
+book | o kitabın adı neydi
+book | hakkında bir kitap var
+
+paper | hakkında bir makale bul
+paper | hakkında bir çalışma göster
+
+movie | adlı bir film göster
+movie | adlı bir film bul
+movie | o filmin adı neydi
+
+tv | adlı bir dizi göster
+tv | adlı bir dizi bul
+
+song | adlı bir şarkı bul
+song | tarafından bir şarkı bul
+
+podcast | adlı bir podcast bul
+podcast | hakkında bir podcast göster
+
+map | harita göster
+map | nerede olduğunu göster
+map | haritada nerede
+
+# ja — Japanese commands
+# te-form requests: 〜を見せて, 〜を探して, 〜を調べて
+
+book | という本を見せて
+book | についての本を見せて
+book | という本を探して
+book | についての本を探して
+book | という本を調べて
+book | あの本なんていったっけ
+book | についての本ない
+
+paper | という論文を見せて
+paper | についての論文を探して
+paper | という研究を調べて
+paper | あの論文なんていったっけ
+
+movie | という映画を見せて
+movie | という映画を探して
+movie | という映画を調べて
+movie | あの映画なんていったっけ
+
+tv | というドラマを見せて
+tv | というドラマを探して
+tv | あのドラマなんていったっけ
+
+song | という曲を見せて
+song | という曲を探して
+song | あの曲なんていったっけ
+
+podcast | というポッドキャストを見せて
+podcast | についてのポッドキャストを探して
+
+map | の地図を見せて
+map | の場所を見せて
+map | どこにあるか見せて
+map | の地図出して
+
+# zh — Chinese commands (Simplified)
+# "给我看", "帮我找", "查一下", "搜一下"
+
+book | 给我找一本关于
+book | 给我找一本叫做
+book | 帮我搜索一本书叫
+book | 查一下那本书叫
+book | 那本书叫什么来着
+book | 有一本书叫做
+
+paper | 给我找一篇关于
+paper | 帮我搜索一篇论文关于
+paper | 那篇论文叫什么来着
+paper | 有一篇研究表明
+
+movie | 给我找一部叫做
+movie | 帮我搜索一部电影叫
+movie | 那部电影叫什么来着
+movie | 有一部电影叫做
+
+tv | 给我找一部叫做
+tv | 那个剧叫什么来着
+tv | 有一个剧叫做
+
+song | 给我找一首叫做
+song | 给我找一首
+song | 那首歌叫什么来着
+song | 播放一首叫做
+
+podcast | 给我找一个播客叫
+podcast | 那个播客叫什么来着
+
+map | 给我看地图
+map | 给我看一下在哪里
+map | 在地图上找一下
+
+# Chinese Traditional commands
+book | 給我找一本叫做
+book | 那本書叫什麼來著
+movie | 給我找一部叫做
+movie | 那部電影叫什麼來著
+song | 給我找一首叫做
+map | 給我看地圖
+map | 在地圖上找一下
+
+# ko — Korean commands
+# -줘 form: 보여줘, 찾아줘, 검색해줘
+
+book | 라는 책 보여줘
+book | 라는 책 찾아줘
+book | 에 관한 책 찾아줘
+book | 그 책 이름이 뭐였지
+book | 에 관한 책 있어
+
+paper | 라는 논문 찾아줘
+paper | 에 관한 논문 찾아줘
+paper | 그 논문 이름이 뭐였지
+
+movie | 라는 영화 보여줘
+movie | 라는 영화 찾아줘
+movie | 그 영화 이름이 뭐였지
+
+tv | 라는 드라마 찾아줘
+tv | 그 드라마 이름이 뭐였지
+
+song | 라는 노래 찾아줘
+song | 라는 노래 틀어줘
+song | 그 노래 이름이 뭐였지
+
+podcast | 라는 팟캐스트 찾아줘
+podcast | 에 관한 팟캐스트 찾아줘
+
+map | 지도 보여줘
+map | 어디 있는지 보여줘
+map | 지도에서 찾아줘
+
+# hi — Hindi commands (Devanagari)
+
+book | मुझे एक किताब दिखाओ जो है
+book | एक किताब ढूंढो जिसका नाम है
+book | वो किताब कौन सी थी जो
+book | इस बारे में कोई किताब है
+
+paper | एक पेपर ढूंढो जिसका नाम है
+paper | इस बारे में कोई अध्ययन है
+
+movie | मुझे वो फिल्म दिखाओ जिसका नाम है
+movie | एक फिल्म ढूंढो जिसका नाम है
+movie | वो फिल्म कौन सी थी
+
+tv | वो सीरीज ढूंढो जिसका नाम है
+tv | वो सीरीज कौन सी थी
+
+song | वो गाना ढूंढो जिसका नाम है
+song | वो गाना कौन सा था
+
+podcast | वो पॉडकास्ट ढूंढो जिसका नाम है
+
+map | नक्शा दिखाओ
+map | बताओ कहाँ है
+
+# hi — Hindi commands (Roman/Hinglish)
+
+book | mujhe ek kitaab dikhao jiska naam hai
+book | ek kitaab dhundho jiska naam hai
+book | woh kitaab kaun si thi
+book | is baare mein koi kitaab hai
+
+paper | ek paper dhundho jiska naam hai
+paper | is baare mein koi study hai
+
+movie | mujhe woh film dikhao jiska naam hai
+movie | woh film kaun si thi
+
+tv | woh series dhundho jiska naam hai
+
+song | woh gaana dhundho jiska naam hai
+song | woh gaana kaun sa tha
+
+podcast | woh podcast dhundho jiska naam hai
+
+map | naksha dikhao
+map | batao kahaan hai
+
+# bn — Bengali commands
+
+book | আমাকে একটি বই দেখাও যার নাম
+book | এই বিষয়ে একটি বই খোঁজো
+book | সেই বইটার নাম কী ছিল
+book | mujhe ekta boi dekhaao jaar naam
+
+paper | এই বিষয়ে একটি গবেষণাপত্র খোঁজো
+paper | ei bishaye ekta gobeshona khojo
+
+movie | আমাকে সেই চলচ্চিত্র দেখাও যার নাম
+movie | সেই সিনেমার নাম কী ছিল
+movie | sei cinema naam ki chilo
+
+song | সেই গানটার নাম কী ছিল
+song | sei gaantar naam ki chilo
+
+map | মানচিত্র দেখাও
+map | manchitra dekhaao
+
+# mr — Marathi commands
+
+book | मला एक पुस्तक दाखवा ज्याचे नाव
+book | त्या पुस्तकाचे नाव काय होते
+book | mala ek pustak daakhva
+
+paper | त्या अभ्यासाचे नाव काय होते
+
+movie | मला तो चित्रपट दाखवा ज्याचे नाव
+movie | त्या चित्रपटाचे नाव काय होते
+
+map | नकाशा दाखवा
+map | nakasha daakhva
+
+# gu — Gujarati commands
+
+book | મને એ પુસ્તક બતાવો જેનું નામ
+book | mane e pustak batavo
+book | te pustaknu naam shu hatu
+
+movie | મને તે ફિલ્મ બતાવો જેનું નામ
+movie | te filmnu naam shu hatu
+
+map | નકશો બતાવો
+map | naksho batavo
+
+# pa — Punjabi commands
+
+book | ਮੈਨੂੰ ਉਹ ਕਿਤਾਬ ਦੱਸੋ ਜਿਸਦਾ ਨਾਮ
+book | mainu oh kitaab dasso jisda naam
+book | oh kitaab da naam ki si
+
+movie | ਮੈਨੂੰ ਉਹ ਫਿਲਮ ਦਿਖਾਓ ਜਿਸਦਾ ਨਾਮ
+movie | oh film da naam ki si
+
+map | ਨਕਸ਼ਾ ਦਿਖਾਓ
+map | naqsha dikhao
+
+# ta — Tamil commands
+
+book | என்ற புத்தகம் காட்டு
+book | பற்றிய புத்தகம் தேடு
+book | அந்த புத்தகத்தின் பெயர் என்ன
+book | endra puttakam kaattu
+book | pattri oru puttakam thedu
+
+paper | பற்றிய ஆய்வுக் கட்டுரை தேடு
+
+movie | என்ற திரைப்படம் காட்டு
+movie | அந்த திரைப்படத்தின் பெயர் என்ன
+movie | endra thiraippadam kaattu
+
+song | என்ற பாடல் தேடு
+song | அந்த பாடலின் பெயர் என்ன
+
+map | வரைபடம் காட்டு
+map | எங்கே இருக்கு காட்டு
+
+# te — Telugu commands
+
+book | అనే పుస్తకం చూపించు
+book | గురించి పుస్తకం వెతకు
+book | ane pustakam chupinchu
+
+paper | గురించి పరిశోధన వెతకు
+
+movie | అనే సినిమా చూపించు
+movie | ane cinema chupinchu
+
+song | అనే పాట వెతకు
+
+map | మ్యాప్ చూపించు
+map | ఎక్కడ ఉందో చూపించు
+
+# kn — Kannada commands
+
+book | ಎಂಬ ಪುಸ್ತಕ ತೋರಿಸಿ
+book | ಬಗ್ಗೆ ಪುಸ್ತಕ ಹುಡುಕಿ
+book | emba pustaka torisi
+
+movie | ಎಂಬ ಚಲನಚಿತ್ರ ತೋರಿಸಿ
+movie | emba chalanachitra torisi
+
+song | ಎಂಬ ಹಾಡು ಹುಡುಕಿ
+
+map | ನಕ್ಷೆ ತೋರಿಸಿ
+map | ಎಲ್ಲಿದೆ ತೋರಿಸಿ
+
+# ml — Malayalam commands
+
+book | എന്ന പുസ്തകം കാണിക്കൂ
+book | പറ്റിയ പുസ്തകം തിരയൂ
+book | enna pustakam kaanikkoo
+
+movie | എന്ന ചലച്ചിത്രം കാണിക്കൂ
+movie | enna chalacchithram kaanikkoo
+
+song | എന്ന പാട്ട് തിരയൂ
+
+map | ഭൂപടം കാണിക്കൂ
+map | എവിടെ ആണ് കാണിക്കൂ
+
+# th — Thai commands
+
+book | หาหนังสือชื่อ
+book | แสดงหนังสือชื่อ
+book | หนังสือนั้นชื่ออะไร
+
+paper | หาบทความเกี่ยวกับ
+
+movie | หาภาพยนตร์ชื่อ
+movie | แสดงภาพยนตร์ชื่อ
+movie | ภาพยนตร์นั้นชื่ออะไร
+
+tv | หาซีรีส์ชื่อ
+tv | ซีรีส์นั้นชื่ออะไร
+
+song | หาเพลงชื่อ
+song | เพลงนั้นชื่ออะไร
+
+podcast | หาพอดแคสต์ชื่อ
+
+map | แสดงแผนที่
+map | หาที่ตั้งของ
+map | อยู่ที่ไหนบนแผนที่
+
+# vi — Vietnamese commands
+
+book | tìm cho tôi một cuốn sách về
+book | tìm cho tôi một cuốn sách có tên
+book | cuốn sách đó tên là gì
+
+paper | tìm cho tôi một bài báo về
+paper | nghiên cứu đó tên là gì
+
+movie | tìm cho tôi một bộ phim có tên
+movie | bộ phim đó tên là gì
+
+tv | tìm cho tôi một series có tên
+tv | series đó tên là gì
+
+song | tìm cho tôi một bài hát có tên
+song | bài hát đó tên là gì
+
+podcast | tìm cho tôi một podcast có tên
+
+map | cho tôi xem bản đồ của
+map | chỉ cho tôi chỗ đó ở đâu
+
+# id — Indonesian commands
+
+book | carikan aku buku tentang
+book | carikan buku berjudul
+book | buku itu namanya apa
+
+paper | carikan artikel tentang
+paper | penelitian itu tentang apa
+
+movie | carikan film berjudul
+movie | film itu namanya apa
+
+tv | carikan serial berjudul
+tv | serial itu namanya apa
+
+song | carikan lagu berjudul
+song | lagu itu namanya apa
+
+podcast | carikan podcast tentang
+
+map | tampilkan peta dari
+map | tunjukkan di mana
+map | di mana itu di peta
+
+# sw — Swahili commands
+
+book | nionyeshe kitabu kuhusu
+book | tafuta kitabu kinachoitwa
+book | jina la kitabu hicho ni nini
+
+paper | tafuta makala kuhusu
+
+movie | nionyeshe filamu inayoitwa
+movie | jina la filamu hiyo ni nini
+
+tv | tafuta mfululizo unaoitwa
+
+song | tafuta wimbo unaoitwa
+song | jina la wimbo huo ni nini
+
+podcast | tafuta podikasti kuhusu
+
+map | nionyeshe ramani ya
+map | nionyeshe mahali ilipo
